@@ -1,1 +1,1 @@
-matplotlib==3.4.2  # Use the version appropriate for your application
+matplotlib==3.4.2
